@@ -67,3 +67,19 @@ This analysis aims to uncover the different customers segments, purchase trends 
 8. Which time of the day do customers give most ratings per branch?
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
+
+# Revenue And Profit Calculations
+$ COGS = unitsPrice * quantity $
+
+$ VAT = 5% * COGS $
+
+ is added to the 
+ and this is what is billed to the customer.
+
+$ total(gross_sales) = VAT + COGS $
+
+$ grossProfit(grossIncome) = total(gross_sales) - COGS $
+
+Gross Margin is gross profit expressed in percentage of the total(gross profit/revenue)
+
+$ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
