@@ -9,7 +9,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 
 # Analysis List
 
-# 1. Product Analysis:
+#1. Product Analysis:
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
 # 2. Sales Analysis:
